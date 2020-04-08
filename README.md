@@ -2,6 +2,10 @@
 
 This repository contains DeepSource's brand assets and guidelines.
 
+## About DeepSource
+
+[https://deepsource.io/about/](https://deepsource.io/about/)
+
 ## Logos and wordmark
 
 ### Usage
