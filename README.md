@@ -10,9 +10,9 @@ This repository contains DeepSource's brand assets and guidelines.
 
 ### Usage
 
-* The dark versions of the logo and the wordmark &mdash; [logo.svg](logo.svg) and [logo-wordmark.svg](logo-wordmark.svg) are the **primary** identity of DeepSource. These versions should be used against white or off-white backgrounds.
+* The dark versions of the logo and the wordmark &mdash; [logo.svg](logo.svg) and [wordmark.svg](wordmark.svg) are the **primary** identity of DeepSource. These versions should be used against white or off-white backgrounds.
 
-* Against dark backgrounds, use the white versions of the logo and the wordmark &mdash; [logo-white.svg](logo-white.svg) and [logo-wordmark-white.svg](logo-wordmark-white.svg).
+* Against dark backgrounds, use the white versions of the logo and the wordmark &mdash; [logo-white.svg](logo-white.svg) and [wordmark-white.svg](wordmark-white.svg).
 
 * The two versions of logo or wordmark should **never** be used together.
 
